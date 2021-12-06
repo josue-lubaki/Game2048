@@ -1,5 +1,8 @@
 ## Game
 
+### Demo
+[![Everything Is AWESOME](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/6cd0c8b2-726a-4f0a-9916-0dcceed65d53.gif?ClientID=vimeo-core-prod&Date=1638773073&Signature=db48e64dedf6a893ce5e7419c66d27433351b764)](https://youtu.be/cavJgTaEu0U "Game2048")
+
 The goal of this assignment is to implement
 [Game 2048](https://en.wikipedia.org/wiki/2048_(video_game))
 
